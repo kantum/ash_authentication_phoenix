@@ -2,8 +2,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-Mimic.copy(Ash.Resource.Info)
-
 ExUnit.start()
 
 # Ensure the filter override module is loaded before tests
